@@ -6,3 +6,6 @@ openclaw-workspace-state.json
 
 # Archivo de notas internas (diseñado para datos sensibles como SSH, API keys, etc.)
 TOOLS.md
+
+# Metadata interna de ClawHub (marketplace de skills)
+.clawhub/
